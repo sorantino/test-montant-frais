@@ -1,0 +1,15 @@
+{
+    "name": "tgeof/test-montant-frais",
+    "autoload": {
+        "psr-4": {
+            "Tgeof\\TestMontantFrais\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Timothé GEOFFROY",
+            "email": "timothe18122003@gmail.com"
+        }
+    ],
+    "require": {}
+}
